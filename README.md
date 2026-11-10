@@ -73,8 +73,5 @@ Electronics Engineering Student passionate about software development, AI, and w
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/creativeprem789/creativeprem789/output/github-snake.svg" />
 </picture>
 
-## 🎵 Now Playing on Spotify
-
-<a href="https://spotify-github-profile.kittinan.vercel.app/YOUR_SPOTIFY_UID/redirect">
-  <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
-</a>
+🎵 Now Playing on Spotify
+<a href="https://spotify-github-profile.kittinan.vercel.app/31aa7elypjouhogfiy6xze6eifxu/redirect"> <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=31aa7elypjouhogfiy6xze6eifxu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" /> </a>
