@@ -15,7 +15,7 @@ Electronics Engineering Student passionate about software development, AI, and w
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/prem-kumar-rai-0917aa368)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prem-kumar-rai-0917aa368)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:creativeprem789@gmail.com)
 
 ## 💻 Tech Stack:
@@ -50,7 +50,7 @@ Electronics Engineering Student passionate about software development, AI, and w
 ## 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=creativeprem789&show_icons=true&theme=rose&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=creativeprem789&show_icons=true&theme=rose&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=creativeprem789&theme=rose&hide_border=true" alt="GitHub Streak" />
@@ -59,10 +59,10 @@ Electronics Engineering Student passionate about software development, AI, and w
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creativeprem789&layout=compact&theme=rose&hide_border=true" alt="Top Languages" />
 </p>
 
-## ✍️ Random Dev Quote
+## 📈 Contribution Graph
 
 <p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=creativeprem789&bg_color=0d1117&color=0A84FF&line=0A84FF&point=ffffff&area=true&area_color=0A84FF&hide_border=true&custom_title=Prem%27s%20Contribution%20Graph" alt="Contribution Graph" width="100%" />
 </p>
 
 ## 🐍 Contribution Snake
@@ -73,5 +73,10 @@ Electronics Engineering Student passionate about software development, AI, and w
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/creativeprem789/creativeprem789/output/github-snake.svg" />
 </picture>
 
-🎵 Now Playing on Spotify
-<a href="https://spotify-github-profile.kittinan.vercel.app/31aa7elypjouhogfiy6xze6eifxu/redirect"> <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=31aa7elypjouhogfiy6xze6eifxu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" /> </a>
+## ✍️ Random Dev Quote
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:7B2FF7&height=120&section=footer" width="100%" alt="footer wave" />
