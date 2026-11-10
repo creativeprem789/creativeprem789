@@ -1,6 +1,6 @@
 <h1 align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=0A84FF&vCenter=true&width=600&lines=Hi%2C+I'm+YOUR+NAME" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=0A84FF&vCenter=true&width=600&lines=Hi%2C+I'm+PREM+KUMAR+RAI" alt="Typing SVG" />
   </a>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="60" align="right" alt="robot" />
 </h1>
